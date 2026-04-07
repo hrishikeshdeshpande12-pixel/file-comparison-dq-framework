@@ -130,6 +130,9 @@ file-comparison-dq-framework/
 
  🔄 Pipeline Workflow (DAG)
 
+!![Pipeline DAG](screenshots/pipeline_dag.png)
+
+
 ![Pipeline DAG](screenshots/pipeline_run_success.png)
 
 -----
